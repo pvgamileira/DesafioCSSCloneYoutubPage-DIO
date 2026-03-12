@@ -29,4 +29,5 @@ Este projeto é estático e não possui dependências complexas. Para executá-l
 1. **Pré-requisitos:** Apenas um navegador web atualizado.
 2. **Clone o repositório:**
    ```bash
-   git clone [URL-DO-SEU-REPOSITORIO-AQUI]
+   git clone https://github.com/pvgamileira/DesafioCSSCloneYoutubPage-DIO
+3. **Link do projeto: ** https://pvgamileira.github.io/DesafioCSSCloneYoutubPage-DIO/
