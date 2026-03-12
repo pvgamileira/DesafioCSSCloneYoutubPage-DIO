@@ -11,9 +11,9 @@ Um clone fiel da página de reprodução de vídeo do YouTube, desenvolvido pura
 
 ## 📸 Captura de Ecrã (Screenshot)
 
-<img width="1356" height="612" alt="YTClonePage" src="https://github.com/user-attachments/assets/e87f485f-d1d0-4718-bdc9-29802120d195" />
 
-![Captura de Ecrã do Projeto]()
+
+![Captura de Ecrã do Projeto](<img width="1356" height="612" alt="YTClonePage" src="https://github.com/user-attachments/assets/e87f485f-d1d0-4718-bdc9-29802120d195" />)
 
 ## 💻 Tecnologias Usadas
 
