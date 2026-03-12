@@ -30,4 +30,4 @@ Este projeto é estático e não possui dependências complexas. Para executá-l
 2. **Clone o repositório:**
    ```bash
    git clone https://github.com/pvgamileira/DesafioCSSCloneYoutubPage-DIO
-3. **Link do projeto: ** https://pvgamileira.github.io/DesafioCSSCloneYoutubPage-DIO/
+3. **Link do projeto:** https://pvgamileira.github.io/DesafioCSSCloneYoutubPage-DIO/
